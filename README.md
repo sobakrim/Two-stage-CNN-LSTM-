@@ -1,6 +1,6 @@
 # Two-stage-CNN-LSTM: Learning the spatio-temporal relationship between wind and significant wave height 
 
-This is the code for the predition of significant wave height (Hs) using wind conditions. The method consists of two stages: a CNN and an LSTM stage (for more details on the method, see the preprint: https://arxiv.org/abs/2205.13325).
+This is the code for the predition of significant wave height (Hs) using wind conditions. The method consists of two stages: a CNN and an LSTM stage (for more details on the method, see the paper: https://doi.org/10.1017/eds.2022.35 ).
 Data is available at: https://drive.google.com/drive/folders/1SIXYRXIpoegZ_bTLsvmr1g77GLMnMWy_?usp=sharing
 
 Significant wave height data comes frome Homere hindcast database: https://marc.ifremer.fr/produits/rejeu_d_etats_de_mer_homere
