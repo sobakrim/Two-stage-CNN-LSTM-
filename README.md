@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Two-Stage CNN-LSTM</title>
-<style>
-  body {font-family: Arial, sans-serif; line-height: 1.6; margin: 2rem;}
-  code, pre {background:#f4f4f4; padding:0.2rem 0.4rem; border-radius:4px;}
-  pre {padding:1rem; overflow-x:auto;}
-  table {border-collapse:collapse; margin-bottom:1rem;}
-  th, td {border:1px solid #ddd; padding:0.5rem 0.75rem;}
-  th {background:#f9f9f9;}
-  img {max-width:100%; height:auto;}
-</style>
-</head>
-<body>
-
 <h1>Two-Stage CNN-LSTM</h1>
 <p><em>Learning the spatio-temporal link between wind and significant wave height&nbsp;(Hs)</em></p>
 
@@ -78,9 +61,6 @@
   doi    = {10.1017/eds.2022.35}
 }
 </code></pre>
-
-<h2>License</h2>
-<p>Released under the MIT License — see <code>LICENSE</code> for details.</p>
 
 </body>
 </html>
